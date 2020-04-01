@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+#task{
+    width: 60%;
+    padding: 20px;
+    border-radius: 7px;
+    border: none;
+}
+
+#submit{
+    padding: 20px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 7px;
+}
+#tasks{
+    background-color: white;
+}
+li{
+    border: 1px solid white;
+    list-style-type: none;
+    padding: 20px;
+    background-color: dodgerblue;
+    border-radius: 7px;
+    color: white;
+}
+
+li:hover{
+    color: dodgerblue;
+    background-color: white;
+}
+
+.container{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    
+}
